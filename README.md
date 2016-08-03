@@ -24,7 +24,7 @@ pip install requests
 
 ## How to Use?
 
-**Kobe-Engineer-Crawler** have to set **token** to communicate to **Facebook graph API**.
+**Kobe-Engineer-Crawler** has to set **token** to communicate to **Facebook graph API**.
 
 So, go to [Facebook for developers](https://developers.facebook.com/) -> tools & support, and you can find **Graph API Explorer** at Tools.
 
@@ -32,9 +32,9 @@ It will provide **token** to test **Facebook graph API**.
 
 Just use it in this crawler.
 
-After setting of **token**, you have to setting how much posts you want crawling.
+After setting of the **token**, you have to setting how much posts you want crawling.
 
-Then, you can run this crawler in terminal.
+Then, you can run this crawler in the terminal.
 
 ```$
 python Kobe-Engineer-Crawler.py
