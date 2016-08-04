@@ -17,7 +17,7 @@ You can also find the [**source code**](https://github.com/kxgen/facebook-anonym
 
 **Kobe-Engineer-Crawler** is built by **Python 3** and only using **requests** library to crawling data.
 
-Make sure you already have **requests**, or you can use pip to instal them.
+Make sure you already have **requests**, or you can use pip to instal it.
 ```s
 pip install requests
 ```
